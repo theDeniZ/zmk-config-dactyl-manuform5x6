@@ -1,4 +1,5 @@
 # zmk-config for Dactyl Manuform 5x6 (BLE, per key rgb, trackball on the right half.
+
 dactyl manuform zmk firmware builder
 
 This is my attempt at a dactyl manuform (5x6) zmk build. It has rgb underglow activated for 34 keys on the left side and 32 on the right (eventhough the right only has 28 leds), as I am using per key leds (SK6812 mini E). 
